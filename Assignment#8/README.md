@@ -47,11 +47,14 @@ Develop a denoising algorithm based on an auto-encoder architecture using pytorc
 - The noise levels of the testing images are 0.01, 0.02, 0.03 and 0.04
 - Example images are shown with different degrees of noise $`\sigma = 0.01, 0.02, 0.03, 0.04`$ from the left as below:
 
-![](img/std_0.01_clean1.png) ![](img/std_0.02_clean1.png) ![](img/std_0.03_clean1.png) ![](img/std_0.04_clean1.png)
-![](img/std_0.01_noise1.png) ![](img/std_0.02_noise1.png) ![](img/std_0.03_noise1.png) ![](img/std_0.04_noise1.png)
-
-![](img/std_0.01_clean2.png) ![](img/std_0.02_clean2.png) ![](img/std_0.03_clean2.png) ![](img/std_0.04_clean2.png)
-![](img/std_0.01_noise2.png) ![](img/std_0.02_noise2.png) ![](img/std_0.03_noise2.png) ![](img/std_0.04_noise2.png)
+![](img/std_0.01_clean1.png) ![](img/std_0.02_clean1.png) ![](img/std_0.03_clean1.png)  
+![](img/std_0.01_noise1.png) ![](img/std_0.02_noise1.png) ![](img/std_0.03_noise1.png)  
+  
+![](img/std_0.04_clean1.png) ![](img/std_0.01_clean2.png) ![](img/std_0.02_clean2.png)  
+![](img/std_0.04_noise1.png) ![](img/std_0.01_noise2.png) ![](img/std_0.02_noise2.png)  
+  
+![](img/std_0.03_clean2.png) ![](img/std_0.04_clean2.png)  
+![](img/std_0.03_noise2.png) ![](img/std_0.04_noise2.png)  
 
 ## Implementation
 
